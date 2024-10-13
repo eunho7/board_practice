@@ -1,5 +1,4 @@
 # 스프링부트 게시판 프로젝트
-코딩 레시피 : https://youtu.be/YshcPPHClR4?feature=shared
 
 ## (1) 개발 환경
 1. IDE: IntelliJ IDEA Community
